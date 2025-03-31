@@ -1,0 +1,13 @@
+.div{
+    background-color: rgb(0, 153, 255);
+    color: aliceblue;
+}
+.icon{
+    width: 160px;
+    height: 120px;
+    object-fit: cover;
+}
+.city{
+    justify-content: center;
+    align-items: center;
+}
